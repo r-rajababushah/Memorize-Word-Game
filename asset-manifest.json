@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Memorize-Word-Game/static/css/main.e6c13ad2.css",
+    "main.js": "/Memorize-Word-Game/static/js/main.b62a972f.js",
+    "static/js/787.550b674f.chunk.js": "/Memorize-Word-Game/static/js/787.550b674f.chunk.js",
+    "index.html": "/Memorize-Word-Game/index.html",
+    "main.e6c13ad2.css.map": "/Memorize-Word-Game/static/css/main.e6c13ad2.css.map",
+    "main.b62a972f.js.map": "/Memorize-Word-Game/static/js/main.b62a972f.js.map",
+    "787.550b674f.chunk.js.map": "/Memorize-Word-Game/static/js/787.550b674f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b62a972f.js"
+  ]
+}
